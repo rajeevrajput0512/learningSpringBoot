@@ -1,4 +1,4 @@
-package com.example.springBoot.controller.DSA;
+package com.example.springBoot.DSA;
 
 public class TwoSum {
     public  static  void main(String[] args){

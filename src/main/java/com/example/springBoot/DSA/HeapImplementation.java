@@ -1,6 +1,6 @@
-package com.example.springBoot.controller.DSA;
+package com.example.springBoot.DSA;
 
-public class Heap {
+public class HeapImplementation {
     public static void swap ( int [] arr , int i , int j){
         int temp = arr[i];
         arr[i] = arr[j];

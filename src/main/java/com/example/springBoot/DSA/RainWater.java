@@ -1,4 +1,4 @@
-package com.example.springBoot.controller.DSA;
+package com.example.springBoot.DSA;
 
 import java.util.Stack;
 
